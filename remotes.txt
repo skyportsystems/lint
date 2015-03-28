@@ -1,4 +1,4 @@
 origin	git@github.com:skyportsystems/lint (fetch)
 origin	git@github.com:skyportsystems/lint (push)
-upstream	https://github.com/golang/lint (fetch)
-upstream	https://github.com/golang/lint (push)
+upstream	https://github.com/golang/lint.git (fetch)
+upstream	https://github.com/golang/lint.git (push)
